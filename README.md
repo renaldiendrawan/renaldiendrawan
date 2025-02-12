@@ -28,3 +28,11 @@ My name is **Renaldi Endrawan**.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+<p align="left">
+<a href="https://github.com/renaldiendrawan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renaldiendrawan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renaldiendrawan&layout=compact&theme=algolia"/>
+</a>
+</p>
