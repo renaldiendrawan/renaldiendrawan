@@ -48,7 +48,7 @@ Outside of my professional and academic pursuits, I am passionate about **footba
 
 ### 📫 **Reach Me On**
 - **Email**: renaldiendrawan@gmail.com  
-- **Web CV**: [Portfolio](https://renaldiendrawan.github.io/cv/)  
+- **CV**: [Portfolio](https://renaldiendrawan.github.io/cv/)  
 - **LinkedIn**: [linkedin.com/in/renaldiendrawan](https://www.linkedin.com/in/renaldiendrawan)  
 - **Instagram**: [@renaldiendrwn](https://www.instagram.com/renaldiendrwn)  
 - **X**: [@renaldiendrwn](https://x.com/renaldiendrwn)  
