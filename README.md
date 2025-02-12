@@ -8,4 +8,4 @@ Saya sedang belajar menjadi seorang Machine Learning Engineer di program [Coding
 
 Saya juga sedang mempelajari Prototyping IoT berbasis AI pada program Samsung Innovation Campus Batch 6.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/renaldiendrawan)ku ya.
+Jika anda tertarik untuk berkenalan dengan saya, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/renaldiendrawan) saya.
