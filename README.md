@@ -2,12 +2,13 @@
 
 As a D4 Informatics Engineering student at [Politeknik Negeri Jember](https://www.polije.ac.id/), I have cultivated a deep passion for data science, data analysis, and machine learning. Over the course of my studies, I have engaged in various roles that have sharpened my skills in software development, data analysis, and project management:  
 
-- 📋 Worked as a **System Analyst** for a desktop cashier application for a convenience store.  
-- 🚀 Led a project as the **Project Manager** for an F&B cashier desktop application.  
-- 📱 Built an Android/mobile application for **posyandu (child health services)** as an **Android Developer**.  
-- 📊 Analyzed data for an **online puskesmas (community health center)** application as a **Data Analyst**.  
+- 💼 Currently working as a **Software Engineer (Mobile)** intern at **ATRIA (CV Alkas Triyasa Adhikumti)** — developing a **mobile-based task management application** using **Flutter** and **Riverpod architecture**.  
+- 📚 Completed the **Coding Camp 2025 powered by DBS Foundation** to enhance skills as a **Machine Learning Engineer**.  
 - 🌱 Developed an **IoT-based hydroponic monitoring** application as a **Developer**.  
-- 📚 Currently participating in the **Coding Camp 2025 powered by DBS Foundation** to enhance my skills as a Machine Learning Engineer.  
+- 📊 Analyzed data for an **online Puskesmas (community health center)** application as a **Data Analyst**.  
+- 📱 Built an **Android/mobile application** for **Posyandu (child health services)** as an **Android Developer**.  
+- 🚀 Led a project as the **Project Manager** for an **F&B cashier desktop application**.  
+- 📋 Worked as a **System Analyst** for a desktop cashier application for a convenience store.  
 
 These experiences have equipped me with a diverse technical toolkit to tackle challenges in data analysis, application development, and IoT systems. My journey has also refined my problem-solving skills and strengthened my ability to deliver efficient solutions.  
 
