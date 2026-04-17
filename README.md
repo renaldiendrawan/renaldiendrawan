@@ -1,9 +1,12 @@
 # Hi! 👋 I'm Renaldi.  
 
-As a D4 Informatics Engineering student at [Politeknik Negeri Jember](https://www.polije.ac.id/), I have cultivated a deep passion for data science, data analysis, and machine learning. Over the course of my studies, I have engaged in various roles that have sharpened my skills in software development, data analysis, and project management:  
+As a recent **D4 Informatics Engineering** graduate from [Politeknik Negeri Jember](https://www.polije.ac.id/), I have cultivated a deep passion for data science, data analysis, and machine learning. Over the course of my studies and professional experiences, I have engaged in various roles that have sharpened my skills in software development, data analysis, and project management:  
 
-- 💼 Currently working as a **Software Engineer (Mobile)** intern at **ATRIA (CV Alkas Triyasa Adhikumti)** — developing a **mobile-based task management application** using **Flutter** and **Riverpod architecture**.  
-- 📚 Completed the **Coding Camp 2025 powered by DBS Foundation** to enhance skills as a **Machine Learning Engineer**.  
+- 🎓 Successfully completed my undergraduate thesis titled **"Sentiment Analysis on X Social Media Regarding Education Sector Budget Efficiency Issues Using the Long Short-Term Memory (LSTM) Method."**
+- 💼 Completed a **Software Engineer (Mobile)** internship at **ATRIA (CV Alkas Triyasa Adhikumti)**, where I developed two key mobile applications:
+  - A **task management application** for internal ATRIA operations using **Flutter** and **Riverpod architecture**.
+  - A **marketing and sales management application** for **Labini** (a bottled water brand under the Muba Group).  
+- 📚 Completed the **Coding Camp 2025 powered by DBS Foundation** to enhance my skills as a **Machine Learning Engineer**.  
 - 🌱 Developed an **IoT-based hydroponic monitoring** application as a **Developer**.  
 - 📊 Analyzed data for an **online Puskesmas (community health center)** application as a **Data Analyst**.  
 - 📱 Built an **Android/mobile application** for **Posyandu (child health services)** as an **Android Developer**.  
